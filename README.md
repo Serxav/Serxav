@@ -20,7 +20,7 @@
 - 🎰 **iGaming** — online casino platforms and the iGaming industry
 - 📱 **App development** — mobile, desktop and web apps
 - 🍎 **macOS & Apple** — daily macOS user, 6-month internship at an Apple service provider, ATLAS / AppleCare trained
-- 🌐 **Networks & Linux** — networking, Ubuntu, MikroTik / RouterOS
+- 🌐 **Networks & Linux** — networking, Ubuntu, cisco
 
 ### 🛠️ Tech
 
