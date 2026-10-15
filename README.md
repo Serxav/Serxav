@@ -16,8 +16,8 @@
 
 ### 🧭 What I'm good at
 
-- 🤖 **AI** — I build software with AI agents every day (Claude Code, MCP, LLM APIs)
-- 🎰 **iGaming** — online casino platforms and the iGaming industry
+- 🤖 **AI** — I build software with AI agents regularly (Claude Code, MCP, LLM APIs)
+- 🎰 **iGaming** — slot game design, engaging game features and player retention
 - 📱 **App development** — mobile, desktop and web apps
 - 🍎 **macOS & Apple** — daily macOS user, 6-month internship at an Apple service provider, ATLAS / AppleCare trained
 - 🌐 **Networks & Linux** — networking, Ubuntu, cisco
