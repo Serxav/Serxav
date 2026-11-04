@@ -30,7 +30,7 @@
 
 ### 🎓 Certifications
 
-🍎 Apple ATLAS · 🧠 Anthropic Claude course · 🌐 Cisco: IT Essentials, Cybersecurity, Python Essentials 1 & 2, Data Science, Applied AI, English for IT
+🍎 Apple ATLAS · 🧠 Anthropic Claude course · 🌐 Cisco: IT Essentials, Cybersecurity, Python Essentials 1 & 2, Data Science, Applied AI
 
 ### 🚀 Projects
 
