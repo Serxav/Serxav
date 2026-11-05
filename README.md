@@ -19,7 +19,7 @@
 - 🤖 **AI** — I build software with AI agents regularly (Claude Code, MCP, LLM APIs)
 - 🎰 **iGaming** — slot game design, engaging game features and player retention
 - 📱 **App development** — mobile, desktop and web apps
-- 🍎 **macOS & Apple** — daily macOS user, 6-month internship at an Apple service provider, ATLAS / AppleCare trained
+- 🍎 **macOS & Apple** — daily macOS user, internship at an Apple service provider, ATLAS / AppleCare trained
 - 🌐 **Networks & Linux** — networking, Ubuntu, cisco
 
 ### 🛠️ Tech
@@ -34,7 +34,8 @@
 
 ### 🚀 Projects
 
+- 🛠️ **FixScribe** — film a repair once and get a step-by-step guide, then live camera coaching. Built for the Meta Global AI Developer Hackathon
+- 💳 **Leash** — spending rules for AI agents with human approval and PayPal checkout. Built for the PayPal AI Hackathon
 - 📅 **Turnos** — shift-work calendar you can share with your partner (Flutter)
 - 📓 **Bloc** — offline class notebook for DAM students (Electron + React)
-- 📂 **DocuPide** — document collection for accounting firms via magic link (Next.js + Supabase)
-- 🔍 **[why-no-tools](https://github.com/Serxav/why-no-tools)** — finds why your MCP server shows no tools in Claude Code
+- 🔍 **why-no-tools** — finds why your MCP server shows no tools in Claude Code
