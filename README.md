@@ -16,7 +16,7 @@
 
 ### 🧭 What I'm good at
 
-- 🤖 **AI** — I build software with AI agents regularly (Claude Code, MCP, LLM APIs)
+- 🤖 **AI** — I build software with AI agents (Claude Code, MCP, LLM APIs)
 - 🎰 **iGaming** — slot game design, engaging game features and player retention
 - 📱 **App development** — mobile, desktop and web apps
 - 🍎 **macOS & Apple** — daily macOS user, internship at an Apple service provider, ATLAS / AppleCare trained
