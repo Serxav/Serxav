@@ -15,7 +15,7 @@
 
 ---
 
-### 🎰 Frenetic Play
+### Frenetic Play
 
 <p>
   <a href="https://github.com/freneticplay"><img src="https://github.com/freneticplay.png" width="72" align="middle" alt="Frenetic Play"></a>
