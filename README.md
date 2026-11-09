@@ -17,11 +17,10 @@
 
 ### 🎰 Frenetic Play
 
-<a href="https://github.com/freneticplay"><img src="https://github.com/freneticplay.png" width="72" align="left" alt="Frenetic Play"></a>
-
-I'm building **[Frenetic Play](https://github.com/freneticplay)**, an independent casino game studio.
-
-<br clear="left">
+<p>
+  <a href="https://github.com/freneticplay"><img src="https://github.com/freneticplay.png" width="72" align="middle" alt="Frenetic Play"></a>
+  &nbsp;&nbsp;I'm building <b><a href="https://github.com/freneticplay">Frenetic Play</a></b>, an independent casino game studio.
+</p>
 
 ### 🧭 What I'm good at
 
