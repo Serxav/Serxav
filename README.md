@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Founder of <a href="https://github.com/freneticplay">Frenetic Play</a></b><br>
-  <b>AI Specialist · iGaming Specialist · Multiplatform App Developer</b><br>
+  <b>AI Specialist · iGaming Specialist · Multiplatform App Developer student</b><br>
   DAM student · Barcelona area
 </p>
 
