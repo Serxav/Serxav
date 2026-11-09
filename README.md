@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Sergi 👋</h1>
 
 <p align="center">
+  <b>Founder of <a href="https://github.com/freneticplay">Frenetic Play</a></b><br>
   <b>AI Specialist · iGaming Specialist · Multiplatform App Developer</b><br>
   DAM student · Barcelona area
 </p>
@@ -14,10 +15,18 @@
 
 ---
 
+### 🎰 Frenetic Play
+
+<a href="https://github.com/freneticplay"><img src="https://github.com/freneticplay.png" width="72" align="left" alt="Frenetic Play"></a>
+
+I'm building **[Frenetic Play](https://github.com/freneticplay)**, an independent casino game studio making original slots.
+
+<br clear="left">
+
 ### 🧭 What I'm good at
 
 - 🤖 **AI** — I build software with AI agents (Claude Code, MCP, LLM APIs)
-- 🎰 **iGaming** — slot game design, engaging game features and player retention
+- 🎰 **iGaming** — slot game design and math, engaging game features and player retention
 - 📱 **App development** — mobile, desktop and web apps
 - 🍎 **macOS & Apple** — daily macOS user, internship at an Apple service provider, ATLAS / AppleCare trained
 - 🌐 **Networks & Linux** — networking, Ubuntu, cisco
