@@ -28,7 +28,7 @@
 - 🎰 **iGaming** — slot game design and math, engaging game features and player retention
 - 📱 **App development** — mobile, desktop and web apps
 - 🍎 **macOS & Apple** — daily macOS user, internship at an Apple service provider, ATLAS / AppleCare trained
-- 🌐 **Networks & Linux** — networking, Ubuntu, cisco
+- 🌐 **Networks & Linux** — networking, Ubuntu, cisco.
 
 ### 🛠️ Tech
 
